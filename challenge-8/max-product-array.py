@@ -9,3 +9,11 @@ class Solution:
             curMin = min(tmp, num * curMin, num)
             res = max(res, curMax)
         return res
+
+
+
+
+
+
+
+        
